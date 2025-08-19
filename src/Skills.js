@@ -221,7 +221,7 @@ function Skills() {
           </div>
 
           <div className="card">
-            <img src="/golang.png" className="card-img-top" alt="Go Logo" />
+            <img src="https://www.techasoft.com/blog/2019/12/1576592374.png" className="card-img-top" alt="Go Logo" />
             <div className="card-body">
               <h5 className="card-title">Go</h5>
               <div className="skill-bar">
